@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.864708ff.chunk.css",
+    "main.js": "/static/js/main.11dec649.chunk.js",
+    "main.js.map": "/static/js/main.11dec649.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.aeb6486a.chunk.js": "/static/js/2.aeb6486a.chunk.js",
+    "static/js/2.aeb6486a.chunk.js.map": "/static/js/2.aeb6486a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.77120fcdf7f4851398c2fda85cdb5662.js": "/precache-manifest.77120fcdf7f4851398c2fda85cdb5662.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.864708ff.chunk.css.map": "/static/css/main.864708ff.chunk.css.map",
+    "static/js/2.aeb6486a.chunk.js.LICENSE.txt": "/static/js/2.aeb6486a.chunk.js.LICENSE.txt",
+    "static/media/SBV-Logo.png": "/static/media/SBV-Logo.7ce08319.png",
+    "static/media/aboutUsImg.jpg": "/static/media/aboutUsImg.46494d97.jpg",
+    "static/media/homeImg.png": "/static/media/homeImg.13315e6e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.aeb6486a.chunk.js",
+    "static/css/main.864708ff.chunk.css",
+    "static/js/main.11dec649.chunk.js"
+  ]
+}
